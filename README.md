@@ -1,8 +1,8 @@
-#Front-end Job Interview Questions
+#Front-end Questions / Answers
 
-This file contains a number of front-end interview questions that can be used when vetting potential candidates. It is by no means recommended to use every single question here on the same candidate (that would take hours). Choosing a few items from this list should help you vet the intended skills you require.
+This file contains a number of front-end interview questions that can be used when vetting potential candidates. Forked and modified from [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions).
 
-**Note:** Keep in mind that many of these questions are open-ended and could lead to interesting discussions that tell you more about the person's capabilities than a straight answer would.
+The answers here are based on my personal experience. Where my experience in the topic is lacking, I will indicate where I learned more about it, and will provide a link to where I've tested out the concept.
 
 ## Table of Contents
 
